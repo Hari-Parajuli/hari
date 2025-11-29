@@ -30,6 +30,7 @@ const About = () => {
                             <h3>Achievements</h3>
                             <ul style={{ listStyle: 'disc', paddingLeft: '1.2rem', color: 'var(--color-text-secondary)' }}>
                                 <li>Published multiple Android applications on the Google Play Store.</li>
+                                <li>Worked as a Web Developer for a diverse range of international clients across the USA, UK, Australia, Nepal, Chile, India, Sri Lanka, Egypt, Kenya, Morocco, Turkey, Ghana, and other regions.</li>
                                 <li>Built and maintained a tech YouTube channel (Tricky4you) for 5+ years.</li>
                                 <li>4+ years of experience as a freelancer on Fiverr.</li>
                             </ul>
