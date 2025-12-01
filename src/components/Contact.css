@@ -29,6 +29,22 @@
     font-size: 1.1rem;
 }
 
+.contact-icon {
+    width: 24px;
+    height: 24px;
+    min-width: 24px;
+    color: var(--color-primary);
+    transition: transform var(--transition-fast);
+}
+
+.contact-item:hover .contact-icon {
+    transform: scale(1.1);
+}
+
+.contact-item a {
+    transition: color var(--transition-fast);
+}
+
 .contact-item a:hover {
     color: var(--color-primary);
 }

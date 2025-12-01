@@ -1,4 +1,5 @@
 import profilePic from '../assets/profile-pic.png';
+import resumePdf from '../assets/Hari Parajuli resume.pdf';
 import './Hero.css';
 
 const Hero = () => {
@@ -15,7 +16,7 @@ const Hero = () => {
                     </p>
                     <div className="hero-btns">
                         <a href="https://github.com/Hari-Parajuli" target="_blank" rel="noopener noreferrer" className="btn btn-primary">View Work</a>
-                        <a href="#contact" className="btn btn-outline">Contact Me</a>
+                        <a href={resumePdf} download="Hari_Parajuli_Resume.pdf" className="btn btn-outline">Download Resume</a>
                     </div>
                 </div>
                 <div className="hero-visual">
