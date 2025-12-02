@@ -12,11 +12,11 @@ const Projects = () => {
         },
         {
             id: 2,
-            title: 'To-Do App using React',
-            description: 'Interactive task management app focusing on smooth user experience. Utilized React Hooks and Context API for streamlined state management.',
-            tags: ['React', 'Context API', 'Hooks'],
-            image: 'https://placehold.co/600x400/1e293b/818cf8?text=To-Do+App',
-            link: 'https://github.com/Hari-Parajuli/to-do-list'
+            title: 'ThinkLog - Full-Stack MERN Project',
+            description: 'MERN Stack notes application where users can View, Create, Update and Delete notes. Features REST APIs, rate limiting with Redis (Upstash), and Tailwind CSS for styling.',
+            tags: ['MongoDB', 'Express', 'React', 'Node.js', 'Redis', 'Tailwind CSS', 'REST APIs'],
+            image: 'https://placehold.co/600x400/1e293b/818cf8?text=ThinkLog',
+            link: 'https://github.com/Hari-Parajuli/ThinkLog'
         },
         {
             id: 3,
